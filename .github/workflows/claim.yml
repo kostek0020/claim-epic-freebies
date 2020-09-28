@@ -1,6 +1,6 @@
 name: Claim Free Games
 
-on: # When to run this workflow
+on: # When to run this workflow w
     push: # When you edit this repo
 
 # Uncomment the below lines to enable manual trigger.
